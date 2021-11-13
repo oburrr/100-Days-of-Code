@@ -1,12 +1,8 @@
-# DAY 2
-#1. Create a greeting for your program.
-print("Hi there! Let's come up with a cool name for your new band. ")
+#If the bill was $150.00, split between 5 people, with 12% tip. 
 
-#2. Ask the user for the city that they grew up in.
-city = input("What city did you grow up in?\n")
+#Each person should pay (150.00 / 5) * 1.12 = 33.6
+#Format the result to 2 decimal places = 33.60
 
-#3. Ask the user for the name of a pet.
-pet = input("What is a good name for a pet?\n")
+#Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
-#4. Combine the name of their city and pet and show them their band name.
-print("\nYour band name is " + city + " " + pet + ". Awesome!")
+#Write your code below this line 👇
